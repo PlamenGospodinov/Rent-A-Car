@@ -1,0 +1,20 @@
+body {
+  margin: 0px;
+}
+html{
+  background-color: rgb(47, 48, 48) !important;
+}
+
+.customers-vehicles {
+  margin-top: 7px;
+}
+.create-buttom-container {
+  margin-top: 20px;
+  margin-bottom: 7px;
+  display: flex;
+  justify-content: center;
+}
+.centred {
+  display: flex;
+  justify-content: center;
+}

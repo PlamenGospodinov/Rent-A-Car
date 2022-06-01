@@ -1,0 +1,23 @@
+.myModel {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  display: none;
+}
+
+.myModelContent {
+  text-align: center;
+  padding: 15px;
+  background: rgb(63, 57, 57);
+  border-radius: 16px;
+  min-width: 250px;
+}
+
+.myModel.active {
+  background-color: rgb(78, 83, 81);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
